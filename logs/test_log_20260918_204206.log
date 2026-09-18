@@ -1,0 +1,8 @@
+2026-09-18 20:42:07,449 - CONFTEST - INFO - Initializing Chrome driver
+2026-09-18 20:42:09,749 - CONFTEST - INFO - Chrome driver initialized and window maximized
+2026-09-18 20:42:15,070 - CONFTEST - INFO - TEST PASSED: test_open_saucedemo
+2026-09-18 20:42:15,071 - CONFTEST - INFO - Quitting Chrome driver
+2026-09-18 20:42:17,413 - CONFTEST - INFO - Initializing Chrome driver
+2026-09-18 20:42:19,826 - CONFTEST - INFO - Chrome driver initialized and window maximized
+2026-09-18 20:42:22,245 - CONFTEST - INFO - TEST PASSED: test_valid_login
+2026-09-18 20:42:22,245 - CONFTEST - INFO - Quitting Chrome driver

@@ -1,0 +1,7 @@
+2026-09-18 20:42:09,751 - test_login - INFO - Starting test_url
+2026-09-18 20:42:15,069 - test_login - INFO - test_valid_url completed successfully
+2026-09-18 20:42:19,827 - test_login - INFO - Starting test_valid_login
+2026-09-18 20:42:21,987 - pages.login_page - INFO - Entering username: standard_user
+2026-09-18 20:42:22,063 - pages.login_page - INFO - Entering password
+2026-09-18 20:42:22,174 - pages.login_page - INFO - Clicking login button
+2026-09-18 20:42:22,244 - test_login - INFO - test_valid_login completed successfully
